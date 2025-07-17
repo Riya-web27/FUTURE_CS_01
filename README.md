@@ -12,6 +12,7 @@ OWASP ZAP – automated security testing and crawl analysis
 SQLMap – testing for SQL injection vulnerabilities
 jwt.io – for token inspection and manipulation
 Browser Dev Tools & Snipping Tool – for session analysis and evidence capture
+
 📁 Folder Contents
 
 vulnerability-report.docx – full report with identified issues and mitigation
@@ -19,6 +20,7 @@ tools-used.txt – quick summary of the tools and usage context
 test-notes.txt – notes on test methodology and observations
 screenshots/ – evidence visuals for SQLi, XSS, and auth bypass tests
 README.md – this summary file
+
 ✅ Summary of Findings
 
 SQL injection vulnerability found in login form query parameters
